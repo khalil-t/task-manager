@@ -15,10 +15,6 @@ This is a simple Task Manager API built with **Node.js**, **Express**, and **Mon
 - Mongoose (for MongoDB)
 - dotenv (for environment variable management)
 
-## 🧑‍💻 Backend Setup
+## 🖼️ Website Preview
 
-### 1. Clone this repository
-
-```bash
-git clone https://github.com/your-username/task-manager-api.git
-cd task-manager-api
+![Website Screenshot](./screen/github.PNG)
